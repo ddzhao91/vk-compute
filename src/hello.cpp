@@ -1,4 +1,5 @@
-# include "hello.h"
+#include "hello.h"
+#include "gpuinfo.h"
 
 using namespace std;
 
